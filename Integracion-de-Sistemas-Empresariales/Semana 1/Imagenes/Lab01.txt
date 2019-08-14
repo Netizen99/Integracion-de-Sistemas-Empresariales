@@ -1,0 +1,29 @@
+LAB 01
+
+///////////////////////////////////////////////////////////////////////////
+
+- Imagen 1.1 "Primera vista de la instalacion de Odoo, lista de componentes".
+- Imagen 1.2 "Configuracion de la informacion de Odoo".
+- Imagen 1.3 "Carga terminada de la instalacion".
+- Imagen 1.4 "Creando la base de datos de Odoo".
+- Imagen 1.5 "Aplicaciones de Odoo".
+- Imagen 1.6 "Puerto en el que corre".
+- Imagen 1.7 "Vista de PostgreSQL conectado con la base de datos de Odoo".
+- Imagen 1.8 "Primer cuadro de la Tarea".
+- Imagen 1.9 "Segundo cuadro de la Tarea".
+
+OBSERVACIONES
+
+-La instalacion de Odoo vamos a obtenerla gracias a un instalador que se repartio en clase, ya que en internet este nos va a costar dinero.
+-Odoo nos va a ayudar a elaborar diversos programas que van a tener como objetivo el fin de una empresa, ya sea de facturacion, ventas, etc.
+-Con Odoo en nuestros primeras vistas; vamos a crear nuestra base de datos por el mismo Odoo luego de instalarlo.
+-Con PosgreSQL, vamos a administrar las tablas que va a poseer la base de datos que hemos creado en Odoo.
+-Vamos a ver que mediante Windows la instalacion es mas extensa ya que se debe buscar cada programa pero en Linux es diferente ya que solo introducimos comandos con los cuales se va a instalar los programas del laboratorio.
+
+CONCLUSIONES
+
+-La instalacion de Odoo es muy sencilla y simple si se posee el instalador, en este caso instalaremos la version 11.
+-Desde la version 8 de Odoo para arriba son compatibles entre ellas asi como cambian en pocas cosas.
+-Es recomendable usar una version que ya a sido probada como la 11 a la actual que es la 12 y aun esta en desarrollo de pruebas aunque ya se puede trabajar en ella.
+-Vamos a ver que Odoo posee muchos modulos o aplicaciones que se podran instalar para poder trabajar con diversos puntos como facturacion, debates, proyecto, etc.
+-Existen proyectos en la comunidad de Odoo ya creados en Odoo pero estos van a tener costos en euros y altos asi como existen otros proyectos completos, muy eficientes y que son gratis.
