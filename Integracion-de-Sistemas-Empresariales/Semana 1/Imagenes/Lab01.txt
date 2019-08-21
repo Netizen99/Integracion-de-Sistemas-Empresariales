@@ -11,6 +11,7 @@ LAB 01
 - Imagen 1.7 "Vista de PostgreSQL conectado con la base de datos de Odoo".
 - Imagen 1.8 "Primer cuadro de la Tarea".
 - Imagen 1.9 "Segundo cuadro de la Tarea".
+- Imagen 1.10 "Vista de odoo en Linux".
 
 OBSERVACIONES
 
